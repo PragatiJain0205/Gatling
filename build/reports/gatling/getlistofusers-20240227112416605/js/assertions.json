@@ -1,0 +1,10 @@
+{
+  "simulation": "simulation.GetListofUsers",
+  "simulationId": "getlistofusers",
+  "start": 1709033056605,
+  "description": "",
+  "scenarios": ["Get_User_List"],
+  "assertions": [
+
+  ]
+}
